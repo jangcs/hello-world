@@ -4,6 +4,8 @@ test git-hub first
 Hello, Jangcs
 This is a first github file of jangcs.
 
+Markdown exercise
+
 # This is an <h1> h1 tag 1
 ## This is an <h2> h2 tag 2
 ### This is an <h3> h3 tag 3
@@ -32,4 +34,5 @@ _You **can** combine them_
    * Item 3b
    
    
-   
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)   
